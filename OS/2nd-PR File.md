@@ -1,8 +1,3 @@
----
-
-
----
-
 <h2 id="what-does-operating-system-do-">What does Operating System Do ?</h2>
 <p>You must have heard about Windows , Linux , MAC OS . What are  these ?<br>
 All of these are an Operating Systems.</p>
